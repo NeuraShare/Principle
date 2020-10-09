@@ -1,6 +1,6 @@
-# NeuraShare - Definitions
+# Neurashare - Definitions
 
-Here are all the concepts emerging from the NeuraShare project:
+Here are all the concepts emerging from the Neurashare project:
 - Data singleton
 - Data chunk
 - Knowledge Graph
@@ -15,7 +15,7 @@ A _Data Singleton_ is a piece of knowledge, describing a concept. It is composed
 - a long description
 
 From them are generated `Refers to` relations, pointing at other data singletons emerging from the **long description**.
-For each `Refers to` relation, the frontend client ( [NeuraShare Workstation](https://github.com/NeuraShare/workstation) )
+For each `Refers to` relation, the frontend client ( [Neurashare Workstation](https://github.com/Neurashare/workstation) )
 generates a link to those referenced singletions.
 
 Data Singletons are kind of "contained" in `Data Chunk`s, with a `Is part of` relation. It can be included in more than one
