@@ -1,6 +1,6 @@
 # Neurashare
 
-This repository exposes all the notions and concepts related to Neuroshare and how it is imaginated.
+This repository exposes all the notions and concepts related to Neurashare and how it is imaginated.
 
 ## Summary
 
